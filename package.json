@@ -1,7 +1,6 @@
 {
   "name": "redux-toolkit-mern",
   "version": "1.0.0",
-  "main": "backend/server.js",
   "author": "Joe Contreras",
   "license": "MIT",
   "scripts": {
